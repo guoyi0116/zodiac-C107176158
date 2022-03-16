@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "zodiac-C107176158", "zodiac-C107176158\zodiac-C107176158.csproj", "{5CBF3AE9-EACA-4FED-88B2-AEE575A5F061}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CBF3AE9-EACA-4FED-88B2-AEE575A5F061}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBF3AE9-EACA-4FED-88B2-AEE575A5F061}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBF3AE9-EACA-4FED-88B2-AEE575A5F061}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBF3AE9-EACA-4FED-88B2-AEE575A5F061}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27BAED61-B6B4-4971-A227-8FB63BFFCEC0}
+	EndGlobalSection
+EndGlobal
